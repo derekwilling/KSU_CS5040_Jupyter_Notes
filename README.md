@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DirtySoc/KSU_CS5040_Jupyter_Notes/blob/master/README.md/master)
+[![Launch IJava binder][binder-badge-img]](https://mybinder.org/v2/gh/DirtySoc/KSU_CS5040_Jupyter_Notes/master) [![Launch IJava lab binder][binder-lab-badge-img]](https://mybinder.org/v2/gh/DirtySoc/KSU_CS5040_Jupyter_Notes/master?urlpath=lab)
 
 # KSU_CS5040_Jupyter_Notes
 This is a open repository for notes regarding Kennesaw State University's CS 5040 Data Structures class. (Dr. Hisham Haddad)
