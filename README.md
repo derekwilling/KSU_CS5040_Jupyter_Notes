@@ -3,7 +3,7 @@
 <br/>NOTE: There is a lot of backend setup to get this running in binder, and the setup can take up to 5 minutes normally. Please be patient.
 
 # KSU_CS5040_Jupyter_Notes
-This is a open repository for notes regarding Kennesaw State University's CS 5040 Data Structures class. (Dr. Hisham Haddad)
+This is a open repository for notes regarding Kennesaw State University's CS 5040 Data Structures class. (Dr. Hisham Haddad) The notes here are taken directly from slides provided in the class.
 
 # Live View
 This repo is hosted at https://hub.gke.mybinder.org/user/dirtysoc-ksu_cs-0_jupyter_notes-p1ctrudl/tree
@@ -24,6 +24,11 @@ Ta-da! Now you can run a Java kernel in Jypyter! Great for taking notes and data
 
 # Contributing
 If you want to add some notes or examples feel free! Please for the repo, make your edits, and create a PR.
+
+# KSU Code of Conduct
+Please note that this repository is intended to be for advanced note taking and discovery. Online posting of any material that violates KSU's Codes of Conduct is prohibited: 
+- https://scai.kennesaw.edu
+- https://scai.kennesaw.edu/KSU_Codes_of_Conduct_2018-2019.pdf
 
 # Credit
 HUGE credit goes to [Spencer Park](https://github.com/SpencerPark). Without his implementation of the IJava Kernel and his great open repositories using https://mybinder.org/ this would not be possible!
