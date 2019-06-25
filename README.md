@@ -8,5 +8,22 @@ This is a open repository for notes regarding Kennesaw State University's CS 504
 # Live View
 This repo is hosted at https://hub.gke.mybinder.org/user/dirtysoc-ksu_cs-0_jupyter_notes-p1ctrudl/tree
 
+# Installing
+Here are some simple steps to get a local environment setup on your PC so that you can fork/clone this repo, make edits, and submit PR's:
+
+1. Install [Anaconda](https://www.anaconda.com/distribution/). Be sure to open Anaconda Navigator and install/launch Jupyter Notebook for the first time.
+2. Install [Amazon Corretto 11](https://aws.amazon.com/corretto/) or any flavor _**JDK >= 9**_
+3. Download the source for IJava [here](https://github.com/SpencerPark/IJava#requirements)
+4. Extract the zipped source file.
+5. Open a Anaconda Shell - this was installed with Anaconda. Verify that you can run ```jupter```, ```java -version```, ```jshell``` with no errors.
+6. Navigate to the folder with the IJava **install.py** file and folder from step 4.
+7. run ```python install.py --sys-prefix```
+8. Open Anaconda Navigator and start either the JupyterLab or JupterNotebook instance.
+ 
+Ta-da! Now you can run a Java kernel in Jypyter! Great for taking notes and data science!
+
 # Contributing
 If you want to add some notes or examples feel free! Please for the repo, make your edits, and create a PR.
+
+# Credit
+HUGE credit goes to [Spencer Park](https://github.com/SpencerPark). Without his implementation of the IJava Kernel and his great open repositories using https://mybinder.org/ this would not be possible!
