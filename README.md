@@ -23,7 +23,7 @@ Here are some simple steps to get a local environment setup on your PC so that y
 Ta-da! Now you can run a Java kernel in Jypyter! Great for taking notes and data science!
 
 # Contributing
-If you want to add some notes or examples feel free! Please for the repo, make your edits, and create a PR.
+If you want to add some notes or examples feel free! Please fork the repo, make your edits, and create a PR.
 
 # KSU Code of Conduct
 Please note that this repository is intended to be for advanced note taking and discovery. Online posting of any material that violates KSU's Codes of Conduct is prohibited: 
