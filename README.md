@@ -16,7 +16,7 @@ Here are some simple steps to get a local environment setup on your PC so that y
 3. Download the source for IJava [here](https://github.com/SpencerPark/IJava#requirements)
 4. Extract the zipped source file.
 5. Open a Anaconda Shell - this was installed with Anaconda. Verify that you can run ```jupter```, ```java -version```, ```jshell``` with no errors.
-6. Navigate to the folder with the IJava **install.py** file and folder from step 4.
+6. Navigate to the folder with the IJava **install.py** file from step 4.
 7. run ```python install.py --sys-prefix```
 8. Open Anaconda Navigator and start either the JupyterLab or JupterNotebook instance.
  
